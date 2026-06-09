@@ -1,4 +1,6 @@
 # EX-NO-5-IMPLEMENTATION-OF-RAIL-FENCE
+### NAME : MOULISHWAR G
+### REGISTER NUMBER : 2305001020
 
 ## AIM:
 To write a C program to implement the rail fence transposition technique.
@@ -65,6 +67,8 @@ int main()
 }
 ```
 ## OUTPUT
+
+<img width="588" height="331" alt="image" src="https://github.com/user-attachments/assets/349b1e99-bf35-4df7-b590-74421e6fbe29" />
 
 
 ## RESULT
